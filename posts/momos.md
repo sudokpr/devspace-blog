@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Momos
-date: 2022-01-08T03:41:23.361Z
+date: 'Jan 8, 2022'
 cover_image: https://akm-img-a-in.tosshub.com/businesstoday/images/story/202112/momo_660_060817115337-sixteen_nine.jpg?size=1200:675
 category: 'receipes'
 author: 'kirthi'
