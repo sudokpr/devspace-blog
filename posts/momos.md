@@ -1,11 +1,12 @@
 ---
 layout: blog
 title: Momos
-date: 'Jan 8, 2022'
+excerpt: Vegetable momos
+category: receipes
+date: Jan 8, 2022
 cover_image: https://akm-img-a-in.tosshub.com/businesstoday/images/story/202112/momo_660_060817115337-sixteen_nine.jpg?size=1200:675
-category: 'receipes'
-author: 'kirthi'
-author_image: 'https://randomuser.me/api/portraits/lego/8.jpg'
+author: kirthi
+author_image: https://randomuser.me/api/portraits/lego/8.jpg
 ---
 # Steamed Momos
 
@@ -23,3 +24,7 @@ author_image: 'https://randomuser.me/api/portraits/lego/8.jpg'
 * heat a steamer and arrange the momos in the tray without touching each other.
 * furthermore, steam momos for 10-12 minutes or till shiny sheen appears over it.
 * finally, veg momos recipe is ready to enjoy with momos chutney.
+
+![](/images/blog/61azk8uw6bl._sl1100_.jpg)
+
+The above looks too big and covering the whole preview
